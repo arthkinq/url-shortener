@@ -9,3 +9,4 @@ env/
 .pytest_cache/
 alembic/versions/*.py
 test_env/
+.idea/
